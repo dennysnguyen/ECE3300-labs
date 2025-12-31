@@ -1,0 +1,1 @@
+-wto "3d02103e066f4b32a8753f0e7d0be3f7" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "BCD_Adder_Sim_behav" "xil_defaultlib.BCD_Adder_Sim" "xil_defaultlib.glbl" -log "elaborate.log" 
