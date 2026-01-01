@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denny/.Xilinx/Projects/Bit_counter/Bit_counter.srcs/sources_1/new/Bit_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Bit_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denny/.Xilinx/Projects/Bit_counter/Bit_counter.srcs/sim_1/new/Bit_counter_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Bit_counter_sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denny/.Xilinx/Projects/Bit_counter/Bit_counter.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

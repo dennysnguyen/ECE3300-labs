@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Nov  5 13:57:42 2025
+# Process ID: 8072
+# Current directory: C:/Users/denny/.Xilinx/Projects/Bit_counter/Bit_counter.runs/synth_1
+# Command line: vivado.exe -log Bit_counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Bit_counter.tcl
+# Log file: C:/Users/denny/.Xilinx/Projects/Bit_counter/Bit_counter.runs/synth_1/Bit_counter.vds
+# Journal file: C:/Users/denny/.Xilinx/Projects/Bit_counter/Bit_counter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Bit_counter.tcl -notrace
