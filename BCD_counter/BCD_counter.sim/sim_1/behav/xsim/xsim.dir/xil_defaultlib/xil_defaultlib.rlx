@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v,1760665250,verilog,,,,BCD_counter_sim,,,,,,,,
+C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sources_1/new/BCD_counter.v,1760665659,verilog,,C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v,,BCD_counter;digit_bcd_counter,,,,,,,,

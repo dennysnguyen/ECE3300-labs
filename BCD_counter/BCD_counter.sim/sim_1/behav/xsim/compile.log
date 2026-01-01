@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sources_1/new/BCD_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCD_counter
+INFO: [VRFC 10-311] analyzing module digit_bcd_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCD_counter_sim
+INFO: [VRFC 10-2458] undeclared symbol Resetn, assumed default net type wire [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:6]
+INFO: [VRFC 10-2458] undeclared symbol Clock, assumed default net type wire [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:6]
+INFO: [VRFC 10-2458] undeclared symbol E, assumed default net type wire [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:6]
+INFO: [VRFC 10-2458] undeclared symbol Q_t, assumed default net type wire [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:6]
+INFO: [VRFC 10-2458] undeclared symbol Q_o, assumed default net type wire [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:6]
+WARNING: [VRFC 10-2938] 'Clock' is already implicitly declared on line 6 [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:7]
+WARNING: [VRFC 10-2938] 'Resetn' is already implicitly declared on line 6 [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:8]
+WARNING: [VRFC 10-2938] 'E' is already implicitly declared on line 6 [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:9]
+WARNING: [VRFC 10-2938] 'Q_t' is already implicitly declared on line 6 [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:11]
+WARNING: [VRFC 10-2938] 'Q_o' is already implicitly declared on line 6 [C:/Users/denny/.Xilinx/Projects/BCD_counter/BCD_counter.srcs/sim_1/new/BCD_counter_sim.v:12]
