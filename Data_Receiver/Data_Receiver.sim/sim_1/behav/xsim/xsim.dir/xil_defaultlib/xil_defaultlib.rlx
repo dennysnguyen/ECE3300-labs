@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/denny/.Xilinx/Projects/Data_Receiver/Data_Receiver.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/denny/.Xilinx/Projects/Data_Receiver/Data_Receiver.srcs/sim_1/new/DataReceiver_sim.v,1763189115,verilog,,,,DataReceiver_sim,,,,,,,,
+C:/Users/denny/.Xilinx/Projects/Data_Receiver/Data_Receiver.srcs/sources_1/new/Data_Receiver.v,1763189007,verilog,,C:/Users/denny/.Xilinx/Projects/Data_Receiver/Data_Receiver.srcs/sim_1/new/DataReceiver_sim.v,,Counter;DataReceiver;OdddParityCheck;ShiftReg,,,,,,,,
