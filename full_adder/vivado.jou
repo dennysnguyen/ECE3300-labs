@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Sep 15 14:21:31 2025
+# Process ID: 5448
+# Current directory: C:/Users/denny/.Xilinx/Projects/full_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10288 C:\Users\denny\.Xilinx\Projects\full_adder\full_adder.xpr
+# Log file: C:/Users/denny/.Xilinx/Projects/full_adder/vivado.log
+# Journal file: C:/Users/denny/.Xilinx/Projects/full_adder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/denny/.Xilinx/Projects/full_adder/full_adder.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/denny/.Xilinx/Projects/addern/addern.xpr
+update_compile_order -fileset sources_1

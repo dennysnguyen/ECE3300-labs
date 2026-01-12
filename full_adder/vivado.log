@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Sep 15 14:21:31 2025
+# Process ID: 5448
+# Current directory: C:/Users/denny/.Xilinx/Projects/full_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10288 C:\Users\denny\.Xilinx\Projects\full_adder\full_adder.xpr
+# Log file: C:/Users/denny/.Xilinx/Projects/full_adder/vivado.log
+# Journal file: C:/Users/denny/.Xilinx/Projects/full_adder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/denny/.Xilinx/Projects/full_adder/full_adder.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/denny/.Xilinx/Projects/full_adder/full_adder.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:24 ; elapsed = 00:00:10 . Memory (MB): peak = 1088.852 ; gain = 0.000
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/denny/.Xilinx/Projects/addern/addern.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/denny/addern' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'C:/Users/denny/.Xilinx/Projects/addern/addern.gen/sources_1', nor could it be found using path 'C:/Users/denny/addern/addern.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
