@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Oct 22 13:45:01 2025
+# Process ID: 7208
+# Current directory: C:/Users/denny/.Xilinx/Projects/Mealy_exp/Mealy_exp.runs/synth_1
+# Command line: vivado.exe -log edge_detect_mealy.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source edge_detect_mealy.tcl
+# Log file: C:/Users/denny/.Xilinx/Projects/Mealy_exp/Mealy_exp.runs/synth_1/edge_detect_mealy.vds
+# Journal file: C:/Users/denny/.Xilinx/Projects/Mealy_exp/Mealy_exp.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source edge_detect_mealy.tcl -notrace
